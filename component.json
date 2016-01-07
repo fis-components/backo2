@@ -1,0 +1,10 @@
+{
+    "name": "backo2",
+    "description": "simple backoff based on segmentio/backo",
+    "repos": "https://github.com/mokesmokes/backo.git",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "main": "index.js",
+    "version": "1.0.2"
+}
